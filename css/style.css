@@ -208,3 +208,120 @@ footer .footer-text a {
 #clientes-code .config-clientes p a {
 	color: #111;
 }
+
+/*definir as propriedades de sobre*/
+#container-sobre {
+	width: 65%;
+	margin-left: 5%;
+	float: left;
+	position: relative;
+	height: 80%;
+	background-color: #fff;
+	top: 10%;
+}
+
+#txt-sobre {
+	width: 40%;
+	float: left;
+	position: relative;
+	padding: 5%;
+}
+
+#txt-sobre p {
+	width: 100%;
+	position: relative;
+	float: left;
+}
+
+#txt-sobre dl {
+	width: 50%;
+}
+
+#img-conteudo-sobre {
+	width: 45%;
+	position: relative;
+	float: left;
+	padding: 2%;
+}
+
+#img-conteudo-sobre img {
+	width: 100%;
+}
+
+/*definir as propriedades da pagina contato*/
+#txt-contato {
+	width: 100%;
+	height: 100%;
+}
+
+#txt-contato form {
+	width: 38%;
+	position: relative;
+	float: left;
+	background-color: #fff;
+	padding: 2%;
+	top: 5%;
+	min-height: 400px;
+}
+
+#txt-contato form label {
+	font-weight: bold;
+}
+
+#txt-contato form input {
+	max-width: 100%;
+	width: 99%;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	border: solid #b50909 1px;
+	padding-left: 1%;
+}
+
+#txt-contato form textarea{
+	max-width: 100%;
+	width: 99%;
+	border: solid #b50909 1px;
+	padding-left: 1%;
+	min-height: 100px;
+}
+
+#txt-contato button {
+	width: 30%;
+	height: auto;
+	cursor: pointer;
+	background-color: #b50909;
+	color: #fff;
+	font-size: 1.5em;
+	padding: 15px 0 15px 0;
+	margin-left: 35%;
+	margin-top: 1%;
+}
+
+#txt-contato #conta-data {
+	width: 26%;
+	position: relative;
+	float: left;
+	padding: 2%;
+	background-color: #b50909;
+	color: #fff;
+	top: 5%;
+	margin-left: 1.5%;
+	height: 400px;
+	text-align: center;
+}
+
+#txt-contato #conta-data h3 {
+	color: #fff;
+	text-align: center;
+}
+
+#txt-contato #conta-data h5 {
+	margin-top: 6%;
+	margin-bottom: 4%;
+	vertical-align: middle;
+}
+
+#txt-contato #conta-data h5 img {
+	width: 50px;
+}
